@@ -3,6 +3,20 @@
   "version": "1.0",
   "keywords": "reef-beat, esp8266, commons",
   "description": "esp8266 library for reef-beat",
+  "authors": [
+    {
+      "name": "Marian Craciunescu",
+      "email": "marian.craciunescu@esolutions.ro"
+    },
+    {
+      "name": "Virgil Borcea",
+      "email": "virgil.borcea@esolutions.ro"
+    },
+    {
+      "name": "Marius Staicu",
+      "email": "marius.staicu@esolutions.ro"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "ssh://git@bitbucket.esolutions.ro:7999/prot/reef-esp8266-commons.git"
